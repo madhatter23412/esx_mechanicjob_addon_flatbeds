@@ -29,6 +29,11 @@ Below will add up to three extra FLATBEDS to ESX_Mechanicjob. You edit to fit yo
 In the below with have places where you need to edit for the Flatbed_Addon of your choice. (---Replace_BODY_X_Y_Z---- corresponds
 with the Flatbed position. You will be doing a lot of restart esx_mechanicjob in the console to get the cooridents right
 for the vehicle to fit. You will need to edit the lines below ---Replace_BODY_X_Y_Z---- to fit the vehicle on and off the flatbed.)
+Body I have found out is either 20 or 10 to get the car to fit on the bed area.
+X is gonna move the Vehicle Forward and Back on the Flatbed.
+Y is gonna move the Vehicle Left to right on the Flatbed.
+Z is gonna move the Vehicle Up and Down on the Flatbed.
+You can change these with the server running you can just restart esx_mechanicjob in the console as you working on fitting the vehicle on the flatbed.
 Replace 'REPLACE_WITH_ADDON' with the model name. Before you ask you can APPLY the Same LOGIC to replace the Stock Flatbed. 
 
 	---GTA_Stock_Flatbed---
